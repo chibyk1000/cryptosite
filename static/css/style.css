@@ -1,0 +1,76 @@
+.dashboard{
+    height: 100vh;
+    background-color: #e2eef1;
+}
+
+.side-bar{
+    background-color: #c1c1c1 !important;
+    height: 100vh;
+}
+
+.menu{
+    background-color: #e4dcdc;
+}
+
+.buttons{
+    width: 30%;
+}
+
+.bitcoin-wallet{
+    background-color: #06576b;
+    border-radius: 3px;
+    height: 300px;
+}
+.trans-body{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(51, 51, 51, 0.308);
+  position: absolute;
+ top: 0;
+ left: 0;
+ display: none;
+ justify-content: center;
+ align-items: center;
+ 
+}
+
+.show{
+    display: grid;
+}
+.transaction-form{
+    width: 500px !important;
+    height: 300px;
+    
+}
+body{
+    position: relative;
+}
+
+.image{
+    width: 200px !important;
+    height: 200px !important;
+}
+
+.admin_sidebar{
+    height: 100vh !important;
+    background-color: #333 !important;
+}
+
+.nav-item{
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.dash div{
+    height:300px;
+    border-radius: 5px;
+}
+
+.transfer_form{
+    box-shadow: 0  0 5px gray;
+    display: none;
+}
+
+.show_trans{
+    display: block;
+}
